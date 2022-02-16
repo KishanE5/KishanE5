@@ -1,3 +1,4 @@
+- [About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 - 👋 Hi, I’m @KishanE5 aka Kishan Jotaniya
 - 👀 I’m interested in Coding, R&D, Embedded Electronics
 - 🌱 I’m currently learning Spring-Boot, Automation, IoT & Lot More
