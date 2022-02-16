@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/KishanE5">
     <img src="https://badges.pufler.dev/visits/KishanE5/KishanE5?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/KishanE5?tab=repositories">
     <img src="https://badges.pufler.dev/repos/KishanE5?style=flat-square&color=black&logo=github">
   </a>
 </p>
