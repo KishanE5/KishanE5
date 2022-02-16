@@ -9,4 +9,13 @@
 KishanE5/KishanE5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![bio](https://user-images.githubusercontent.com/90084846/154328849-e0d34474-87bf-4eda-9d35-5fe0f74eeb37.gif)
+</p>
+
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/KishanE5/KishanE5?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Terabyte17?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/KishanE5?style=flat-square&color=black&logo=github">
+  </a>
+</p>
