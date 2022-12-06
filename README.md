@@ -1,3 +1,6 @@
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <ul>
   <li> 👋 Hi, I’m @KishanE5 aka Kishan Jotaniya</li>
   <li> 👀 I’m interested in Coding, R&D, Embedded Electronics</li>
