@@ -1,6 +1,3 @@
-<a target="_blank" align="center">
-  <iframe src="https://giphy.com/embed/usCEjijo8oZhpaAuas" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vhs-retrowave-retrofuture-usCEjijo8oZhpaAuas">via GIPHY</a></p>
-</a>
 <ul>
   <li> 👋 Hi, I’m @KishanE5 aka Kishan Jotaniya</li>
   <li> 👀 I’m interested in Coding, R&D, Embedded Electronics</li>
