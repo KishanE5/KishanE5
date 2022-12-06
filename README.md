@@ -10,8 +10,8 @@ KishanE5/KishanE5 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 </p>
-![code](https://user-images.githubusercontent.com/90084846/154329912-bc01220a-1f96-4435-97c8-ddf9d09b45c4.gif)
 
+<iframe src="https://user-images.githubusercontent.com/90084846/154329912-bc01220a-1f96-4435-97c8-ddf9d09b45c4.gif" title="W3Schools Free Online Web Tutorials"></iframe>
 <p align=center>
   <a href="https://github.com/KishanE5">
     <img src="https://badges.pufler.dev/visits/KishanE5/KishanE5?style=flat-square&color=black&logo=github">
